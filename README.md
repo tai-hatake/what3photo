@@ -1,6 +1,6 @@
 # what3word
 
-![auto_visualizer](https://github.com/tai-hatake/what3photo/blob/gif/assets/what3photo.gif)
+![auto_visualizer](https://github.com/tai-hatake/what3photo/blob/gif/assets/result.gif)
 
 > Nuxt.js project
 
